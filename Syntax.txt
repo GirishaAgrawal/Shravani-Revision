@@ -1,0 +1,18 @@
+Syntaxes
+
+Conditional Programming Statements:
+IF Statement
+
+if(condition){
+     do this
+}
+
+if(it is raining){
+     open the umbrella
+}
+
+FOR loop
+
+for(condition in 3 parts separated by a ;){
+     do this
+}
