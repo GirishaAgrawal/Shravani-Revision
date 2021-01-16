@@ -1,0 +1,35 @@
+Syntaxes
+
+Conditional Programming Statements:
+IF Statement
+
+if(condition){
+     do this
+}
+
+if(it is raining){
+     open the umbrella
+}
+
+FOR loop
+
+for(condition in 3 parts separated by a ;){
+     do this
+}
+
+
+SWITCH Statement
+
+var anyNumber = Math.round(random(6,10));
+
+switch(anyNumber){
+     case 7 : change bg color;
+     break;
+     case 8: change the ht of the obj;
+     break;
+     case 9: add img 1;
+     break;
+     case 10: add animation 3;
+     break;
+     default : break;       (when there is no case match, in this situation if 6 comes up)
+}
